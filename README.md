@@ -1,5 +1,5 @@
 # IMDb Clone
-This is a clone of IMDb which mimics only the frontend. <br>
+<p>This is a clone of IMDb which mimics only the frontend. </p>
 It is developed using ReactJSm, Redux and Vite (a new-gen frontend tool). <br>
 The project uses official IMDb API key which is easily available here https://developer.imdb.com/ you can surf through the page or you can look for a tutorial at youtue. <br>
 
