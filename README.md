@@ -1,10 +1,15 @@
-# IMDb Clone
-<p>This is a clone of IMDb which mimics only the frontend.</p>
-<p>It is developed using ReactJSm, Redux and Vite (a new-gen frontend tool).</p>
-<p>The project uses official IMDb API key which is easily available here https://developer.imdb.com/ you can surf through the page or you can look for a tutorial at youtue.</p>
-# Note
-<p>Run npm i command in terminal</p>
-<br>
+# Movix
+Welcome to Movix, a captivating React web application that brings the world of cinema to your fingertips. Inspired by the iconic IMDB, Movix serves as your personalized clone, seamlessly integrating with the 
+renowned TMDB API for comprehensive movie data.
+
+## Key Features:
+
+* **Recommendations:** Discover personalized movie recommendations tailored to your preferences.
+* **Detailed Movie Insights:** Access comprehensive details about your favorite movies and TV series.
+* **Watch Trailers:** Dive into the cinematic world by watching official trailers of movies and series.
+* **Genre and Language Filters:** Explore movies based on genres and languages that pique your interest.
+* **Trending Page:** Stay updated with the latest trends in the entertainment industry.
+* **Top Rated:** Explore top-rated movies and series curated for your viewing pleasure.
 
 # Sample ScreenShots
 <h3>Header<h3>
@@ -38,3 +43,6 @@
 <h3>Recommendations</h3>
 
 ![Recommendations](https://github.com/Kartikkhare18/IMDb-Clone/assets/110482774/7935192a-dca4-4ec8-8a5e-2c25b59b6e6a)
+
+# Acknowledgement
+For better understanding click - https://youtu.be/VLgVw2NEqCM?si=KaNptrOqtw7ecx0V
