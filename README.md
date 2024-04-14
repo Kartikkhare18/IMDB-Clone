@@ -11,6 +11,8 @@ renowned TMDB API for comprehensive movie data.
 * **Trending Page:** Stay updated with the latest trends in the entertainment industry.
 * **Top Rated:** Explore top-rated movies and series curated for your viewing pleasure.
 
+### TMDb API - https://developer.imdb.com/
+
 # Sample ScreenShots
 <h3>Header<h3>
   
